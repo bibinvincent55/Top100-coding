@@ -1,7 +1,7 @@
 ## Top100-coding ##
-Download the repo contents and open in jupyter notebook
-For testing purpose, only small dataset is used
-I don't know how to host jupyter notebook code in github.
+* Download the repo contents and open in jupyter notebook.
+* For testing purpose, only small dataset is used
+* I don't know how to host jupyter notebook code in github.
 
 # Project Title:
 Movie Recommendation System
