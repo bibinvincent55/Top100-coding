@@ -1,7 +1,16 @@
 ## Top100-coding ##
-* Download the repo contents and open in jupyter notebook.
-* For testing purpose, only small dataset is used
+
+# Steps
+1. Download the repo contents and extract it.
+2. Open folder in jupyter notebook.
+3. Run all the cells.
+4. Input a movie name in checkbox (code output). You will get suggestions based on the movies based on your interest theme. Be patient after inputing movie names.
+
+Note:
+* For testing purpose, i used small dataset.
 * I don't know how to host jupyter notebook code in github.
+
+
 
 # Project Title:
 Movie Recommendation System
